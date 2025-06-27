@@ -1,0 +1,6 @@
+Flask
+selenium==4.8.3
+python-dotenv
+pandas
+webdriver-manager
+urllib3<2.0
